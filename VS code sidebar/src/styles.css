@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.main-container {
+  margin-left: 10px;
+  padding-left: 10px;
+}
+.container {
+  text-align: left;
+  padding-top: 3px;
+  cursor: pointer;
+}
+
+img {
+  margin-left: 10px;
+  width: 15px;
+}
