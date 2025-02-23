@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.outer {
+  border: 1px solid black;
+  border-radius: 50px;
+  overflow: hidden;
+  margin: 10px;
+  text-align: right;
+}
+
+.inner {
+  background-color: green;
+  border-radius: 50px;
+  transition: 0.5s ease-in;
+}
+
+span {
+  margin-right: 10px;
+}
